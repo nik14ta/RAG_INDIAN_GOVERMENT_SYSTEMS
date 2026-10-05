@@ -1,0 +1,11 @@
+question,expected_answer,is_answerable
+What is the penalty for cyber terrorism under Section 66F?,Life imprisonment.,True
+How is theft defined under the Indian Penal Code?,Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.,True
+What is the punishment for cheating under Section 420?,Imprisonment for a term which may extend to seven years, and shall also be liable to fine.,True
+Are electronic records legally recognized in India?,Yes, under the Information Technology Act.,True
+What are the requirements for a valid digital signature?,It must be reliable and appropriate for the purpose for which it was generated.,True
+How do I file my income tax return?,I abstain: The provided legal documents do not contain the answer.,False
+What is the capital of Australia?,I abstain: The provided legal documents do not contain the answer.,False
+Who won the cricket world cup in 2023?,I abstain: The provided legal documents do not contain the answer.,False
+What is the speed limit on Indian highways?,I abstain: The provided legal documents do not contain the answer.,False
+What is the punishment for hacking?,Imprisonment up to three years and/or a fine up to five lakh rupees.,True

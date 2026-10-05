@@ -1,0 +1,14 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+streamlit
+google-generativeai
+rank_bm25
+audio-recorder-streamlit
+SpeechRecognition
+deep-translator
+gTTS
+langdetect
