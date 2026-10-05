@@ -22,6 +22,7 @@ __pycache__/
 Thumbs.db
 
 # AI Coding Agents (Claude Code, Cline, Claude Dev, etc.)
+.agents/
 .claude/
 .claudedev/
 .cline/
