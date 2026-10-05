@@ -1,0 +1,28 @@
+# AI Coding Agents (Claude Code, Cline, Claude Dev, etc.)
+.agents/
+.claude/
+.claudedev/
+.cline/
+.roocline/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Vector databases
+chroma_db/
+
+# Streamlit
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
