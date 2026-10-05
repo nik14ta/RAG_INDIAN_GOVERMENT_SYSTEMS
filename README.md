@@ -21,9 +21,10 @@
 This system allows **any Indian citizen** to ask questions about Indian law — in their own language, by voice or text — and get verified, sourced answers backed by real legal documents.
 
 Instead of reading 500-page PDFs, just ask:
-> *"Cyber terrorism ki saza kya hai?"* 🎤
+> *"Cyber terrorism ki saza kya hai?"*🎤
+> *"What is Punishment for Cyber terrorism?"*
 
-And get a cited, verified answer in Hindi — spoken aloud.
+And get a cited, verified answer in Hindi or English — spoken aloud.
 
 ---
 
